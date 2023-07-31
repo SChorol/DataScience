@@ -1,2 +1,2 @@
 # DataScience
-Data Science tools and Ecosystem
+Data Science tools and Ecosystem summarized.
